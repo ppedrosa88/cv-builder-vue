@@ -13,7 +13,7 @@ Make sure you have installed the following before you begin:
 
 1.  Clone the repository:
 
-    `git clone https://github.com/tu-usuario/cv-builder-vue.git
+    `git clone https://github.com/ppedrosa88/cv-builder-vue.git
 cd cv-builder-vue`
 
 2.  Install dependencies:
